@@ -31,6 +31,8 @@ Saddle Skedaddle_Data: Data for the game
 
 Itch: https://bottomtextstudios.itch.io/saddle-skedaddle
 
+https://github.com/moonshinetcb/Saddle_Skedaddle.git
+
 
 --- INTENDED ROUTE ---
 
